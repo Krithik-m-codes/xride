@@ -1,0 +1,22 @@
+<svg width="300" height="600" viewBox="0 0 300 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Phone frame -->
+  <rect x="5" y="5" width="290" height="590" rx="20" fill="#1A1A1A" stroke="#333" stroke-width="2"/>
+  
+  <!-- Header -->
+  <rect x="20" y="20" width="260" height="60" rx="5" fill="#262626"/>
+  <rect x="50" y="40" width="200" height="20" rx="4" fill="#E67E22"/>
+  
+  <!-- Group members -->
+  <circle cx="80" cy="150" r="30" fill="#555"/>
+  <circle cx="150" cy="150" r="30" fill="#777"/>
+  <circle cx="220" cy="150" r="30" fill="#555"/>
+  
+  <!-- Member details -->
+  <rect x="60" cy="200" width="180" height="30" rx="5" fill="#262626"/>
+  <rect x="60" cy="250" width="180" height="30" rx="5" fill="#262626"/>
+  <rect x="60" cy="300" width="180" height="30" rx="5" fill="#262626"/>
+  
+  <!-- Action buttons -->
+  <rect x="60" cy="370" width="180" height="50" rx="10" fill="#E67E22"/>
+  <rect x="60" cy="440" width="180" height="50" rx="10" fill="#262626" stroke="#E67E22" stroke-width="2"/>
+</svg>

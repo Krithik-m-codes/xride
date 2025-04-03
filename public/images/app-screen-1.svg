@@ -1,0 +1,25 @@
+<svg width="300" height="600" viewBox="0 0 300 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Phone frame -->
+  <rect x="5" y="5" width="290" height="590" rx="20" fill="#1A1A1A" stroke="#333" stroke-width="2"/>
+  
+  <!-- Status bar -->
+  <rect x="20" y="20" width="260" height="30" rx="5" fill="#262626"/>
+  
+  <!-- Map background -->
+  <rect x="20" y="60" width="260" height="460" fill="#121212"/>
+  
+  <!-- Road lines -->
+  <path d="M150 100L150 500" stroke="#E67E22" stroke-width="4" stroke-dasharray="10 5"/>
+  
+  <!-- Motorcycle icon -->
+  <path d="M180 300C180 322.091 162.091 340 140 340C117.909 340 100 322.091 100 300C100 277.909 117.909 260 140 260C162.091 260 180 277.909 180 300Z" fill="#E67E22"/>
+  <path d="M140 300L200 300" stroke="#E67E22" stroke-width="4"/>
+  <circle cx="120" cy="300" r="15" fill="#1A1A1A" stroke="#E67E22" stroke-width="3"/>
+  <circle cx="160" cy="300" r="15" fill="#1A1A1A" stroke="#E67E22" stroke-width="3"/>
+  
+  <!-- Bottom controls -->
+  <rect x="20" y="530" width="260" height="40" rx="10" fill="#262626"/>
+  <circle cx="80" cy="550" r="10" fill="#E67E22"/>
+  <circle cx="150" cy="550" r="10" fill="#555"/>
+  <circle cx="220" cy="550" r="10" fill="#555"/>
+</svg>
